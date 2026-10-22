@@ -1,0 +1,93 @@
+{
+  "project": "Android Artifacts Cleaner",
+  "source": "C:\\Users\\NanoSpora\\Documents\\New project\\android_artifacts_cleaner.py",
+  "original_exe": "C:\\Users\\NanoSpora\\Documents\\New project\\dist\\AndroidArtifactsCleaner.exe",
+  "version": null,
+  "publication_format": "Secret Gist",
+  "source_matches_embedded_code": true,
+  "original_exe_unchanged": true,
+  "static_syntax_files": 3,
+  "runtime_tests": false,
+  "files": [
+    {
+      "name": "android_artifacts_cleaner.py",
+      "sha256": "352344b6e0ae04ac73ac5ac737af1e1da911e34b8dd7f83ea2df03f5b787d75a",
+      "size": 29503
+    },
+    {
+      "name": "android_cleaner_icon.ico",
+      "sha256": "60872c59e689f0564b9a65a06153edfed24de1da406c92e59a3afcf118ecef27",
+      "size": 68055
+    },
+    {
+      "name": "android_cleaner_icon.png",
+      "sha256": "d66fef3153b441ee80e9a94248b94c2b29b986e001f55bba1c1c19caf0220371",
+      "size": 107615
+    },
+    {
+      "name": "AndroidArtifactsCleaner.exe",
+      "sha256": "05a945a2f64f6cc0323bdce69e687cb72656e9bf4afcfdf9aa7e8fa2b3c7918f",
+      "size": 44233157
+    },
+    {
+      "name": "AndroidArtifactsCleaner.spec",
+      "sha256": "6cbad1cf47f8a4b4f61d9222eac838ac176c4836abfa94b9d6291d31676b4823",
+      "size": 775
+    },
+    {
+      "name": "generate_android_cleaner_icon.py",
+      "sha256": "5637e52f5e4bde9f7baabde7e4261070d418c180194828eb1d29299a1448ccdd",
+      "size": 4917
+    },
+    {
+      "name": "LICENSE-SCOPE.md",
+      "sha256": "456975e5f7b4eac670f2294ec807a9937760edca5239050dc15c598dd8771579",
+      "size": 1005
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "215ac84d7daa36ca3aafc628581c7f39e3ca0d5f5df5a56df9cc62ac6882d1bd",
+      "size": 10106
+    },
+    {
+      "name": "README.md",
+      "sha256": "2a9663b1cf5437880d0611e3edc2df454b4d7ee09bfd494f2df41935e72cc403",
+      "size": 2582
+    },
+    {
+      "name": "THIRD-PARTY-GPL-3.0.txt",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "size": 35147
+    },
+    {
+      "name": "THIRD-PARTY-LGPL-3.0.txt",
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768",
+      "size": 7651
+    },
+    {
+      "name": "THIRD-PARTY-Pillow-LICENSE.txt",
+      "sha256": "15181e7363dca9aed78b79bebebc7fde7f1814b8bd311ea3b87ae8ccadfc185b",
+      "size": 1457
+    },
+    {
+      "name": "THIRD-PARTY-PyInstaller-COPYING.txt",
+      "sha256": "dcf75fdb959db1e3b41c0f8505069d2ece781b5ec6b3d0a4d30975cfc6580245",
+      "size": 32138
+    },
+    {
+      "name": "THIRD-PARTY-Python-LICENSE.txt",
+      "sha256": "78b12c3a81360b357002334f0e70ea0e92eebf7a9b358805c03c48484945f3bb",
+      "size": 13809
+    },
+    {
+      "name": "THIRD-PARTY-Qt-GPL-exception.txt",
+      "sha256": "40678d338ce53cd93f8b22b281a2ecbcaa3ee65ce60b25ffb0c462b0530846b2",
+      "size": 965
+    },
+    {
+      "name": "THIRD-PARTY.md",
+      "sha256": "4701b0fdfa1e2c2432118606cc803b2954065161e593820cccbe418b332348bd",
+      "size": 1734
+    }
+  ]
+}
