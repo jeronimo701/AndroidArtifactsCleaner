@@ -1,0 +1,1 @@
+Android Artifacts Cleaner — подготовка публикации файлов проекта.
